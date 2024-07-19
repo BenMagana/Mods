@@ -1,0 +1,12 @@
+{
+  "name": "space-exploration-revamped",
+  "version": "0.1.0",
+  "title": "Space Exploration Revamped",
+  "author": "Tyrthius",
+  "dependencies": [
+    "base >= 1.1.77",
+    "space-exploration >= .6.108"
+  ],
+  "description": "Recipe and science overhaul for Space Exploration.",
+  "factorio_version": "1.1"
+}

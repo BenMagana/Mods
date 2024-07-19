@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<GeneDef>
+		<defName>Cave_Dweller</defName>
+		<label>Cave Dweller</label>
+		<description>This gene forces the "Undergrounder" trait.</description>
+		<iconPath>UI/Icons/Genes/CaveDweller</iconPath>
+		<customEffectDescriptions>
+			<li>Cave dwellers have no need to experience the outdoors or light. They will never feel cooped up or get cabin fever and is not bothered by darkness. However, they will be unhappy while outdoors.</li>
+		</customEffectDescriptions>
+		<forcedTraits>
+			<li>
+				<def>Undergrounder</def>
+			</li>
+		</forcedTraits>
+	</GeneDef>
+</Defs>
