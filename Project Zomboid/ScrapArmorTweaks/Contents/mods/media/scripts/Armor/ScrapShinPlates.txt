@@ -1,0 +1,124 @@
+module Base
+{		
+
+	
+	item ScrapShinPlateR
+	{
+	Type = Clothing,
+	DisplayName = Right Scrap Greaves,
+	ClothingItem = ScrapShinPlateR,
+	BodyLocation = ShinPlateRight,
+	BloodLocation = Trousers,
+	Icon = ScrapShinPlates,
+	CanHaveHoles = False,
+	ScratchDefense = 45,
+    BiteDefense = 40,
+	BulletDefense = 15,
+	DisplayCategory = Armor,
+    Weight = 1,
+    Insulation = 0,
+    WindResistance = 0,
+	Tooltip = Tooltip_ScrapShinPlate,
+	Tags = MetalArmor,
+	}
+	
+	item ScrapShinPlateL
+	{
+	Type = Clothing,
+	DisplayName = Left Scrap Greaves,
+	ClothingItem = ScrapShinPlateL,
+	BodyLocation = ShinPlateLeft,
+	BloodLocation = Trousers,
+	Icon = ScrapShinPlates,
+	CanHaveHoles = False,
+	ScratchDefense = 45,
+    BiteDefense = 40,
+	BulletDefense = 15,
+	DisplayCategory = Armor,
+    Weight = 1,
+    Insulation = 0,
+    WindResistance = 0,
+	Tooltip = Tooltip_ScrapShinPlate,
+	Tags = MetalArmor,
+	}
+	
+	item ScrapShinPlateStuddedR
+	{
+	Type = Clothing,
+	DisplayName = Right Scrap Greaves Studded,
+	ClothingItem = ScrapShinPlateStuddedR,
+	BodyLocation = ShinPlateRight,
+	BloodLocation = Trousers,
+	Icon = ScrapShinPlatesStudded,
+	CanHaveHoles = False,
+	ScratchDefense = 65,
+    BiteDefense = 50,
+	BulletDefense = 15,
+	DisplayCategory = Armor,
+    Weight = 1.1,
+    Insulation = 0,
+    WindResistance = 0,
+	Tooltip = Tooltip_ScrapShinPlate,
+	Tags = MetalArmor,
+	}
+	
+	item ScrapShinPlateStuddedL
+	{
+	Type = Clothing,
+	DisplayName = Left Scrap Greaves Studded,
+	ClothingItem = ScrapShinPlateStuddedL,
+	BodyLocation = ShinPlateLeft,
+	BloodLocation = Trousers,
+	Icon = ScrapShinPlatesStudded,
+	CanHaveHoles = False,
+	ScratchDefense = 65,
+    BiteDefense = 50,
+	BulletDefense = 15,
+	DisplayCategory = Armor,
+    Weight = 1.1,
+    Insulation = 0,
+    WindResistance = 0,
+	Tooltip = Tooltip_ScrapShinPlate,
+	Tags = MetalArmor,
+	}
+	item ScrapShinPlate2R
+	{
+	Type = Clothing,
+	DisplayName = Right Reinforced Greaves,
+	ClothingItem = ScrapShinPlate2R,
+	BodyLocation = ShinPlateRight,
+	BloodLocation = Trousers,
+	Icon = ScrapShinPlates2,
+	CanHaveHoles = False,
+	ScratchDefense = 55,
+    BiteDefense = 50,
+	BulletDefense = 15,
+	DisplayCategory = Armor,
+    Weight = 1,
+    Insulation = 0,
+    WindResistance = 0,
+	Tooltip = Tooltip_ScrapShinPlate,
+	Tags = MetalArmor,
+	}
+	
+	item ScrapShinPlate2L
+	{
+	Type = Clothing,
+	DisplayName = Left Reinforced Greaves,
+	ClothingItem = ScrapShinPlate2L,
+	BodyLocation = ShinPlateLeft,
+	BloodLocation = Trousers,
+	Icon = ScrapShinPlates2,
+	CanHaveHoles = False,
+	ScratchDefense = 55,
+    BiteDefense = 50,
+	BulletDefense = 15,
+	DisplayCategory = Armor,
+    Weight = 1,
+    Insulation = 0,
+    WindResistance = 0,
+	Tooltip = Tooltip_ScrapShinPlate,
+	Tags = MetalArmor,
+	}
+	
+}

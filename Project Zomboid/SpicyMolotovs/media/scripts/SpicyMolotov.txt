@@ -1,0 +1,30 @@
+module Base
+{
+    item Molotov
+    {
+        DisplayCategory = Explosives,
+        OtherHandUse	=	TRUE,
+        MaxRange	=	15,
+        WeaponSprite = Molotov,
+        Type	=	Weapon,
+        MinimumSwingTime	=	1.5,
+        SwingAnim	=	Throw,
+        UseSelf	=	TRUE,
+        DisplayName	=	Molotov Cocktail,
+        SwingTime	=	1.5,
+        SwingAmountBeforeImpact	=	0.1,
+        PhysicsObject	=	MolotovCocktail,
+        MinDamage	=	0,
+        Weight	=	1.5,
+        MaxDamage	=	0,
+        OtherHandRequire	=	Lighter,
+        MaxHitCount	=	0,
+        FirePower  =   98,
+        FireRange  =   5,
+        Icon	=	Molotov,
+        EquipSound = MolotovCocktailEquip,
+        ExplosionSound = MolotovCocktailExplode,
+        SwingSound = MolotovCocktailThrow,
+    }
+
+}

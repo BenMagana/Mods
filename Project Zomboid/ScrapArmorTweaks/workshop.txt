@@ -1,0 +1,6 @@
+version=1
+id=2948371116
+title=Scrap Armor Tweaks
+description=Reduces weights with the intention of making armor more focused on zomboid protection at the cost of bullet defense. Also prevents all armor pieces from getting holes.
+tags=Build 41;Balance;Clothing/Armor
+visibility=public

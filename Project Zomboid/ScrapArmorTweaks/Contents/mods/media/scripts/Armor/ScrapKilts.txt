@@ -1,0 +1,95 @@
+module Base
+{		
+	item ScrapKiltSign
+	{
+	    Type = Clothing,
+		DisplayName = Scrap Kilt with Signs,
+		ClothingItem = ScrapKiltSign,
+		BodyLocation = LowerBody,
+		Icon = ScrapKiltSign,
+		CanHaveHoles = False,
+		BloodLocation = UpperLegs;Groin,
+		BiteDefense = 45,
+		ScratchDefense = 45,
+		BulletDefense = 15,
+		DisplayCategory = Armor,
+		Insulation = 0,
+		WaterResistance = 0,
+        Weight = 1.1,
+		ConditionLowerChanceOneIn = 15,
+        ConditionMax = 15,
+        RemoveOnBroken = false,
+		Tooltip = Tooltip_ScrapKilt,
+		Tags = MetalArmor,
+    }
+
+    item ScrapKiltPlated
+	{
+	    Type = Clothing,
+		DisplayName = Scrap Kilt Plated,
+		ClothingItem = ScrapKiltPlated,
+		BodyLocation = LowerBody,
+		Icon = ScrapKiltPlated,
+		CanHaveHoles = False,
+		BloodLocation = UpperLegs;Groin,
+		BiteDefense = 55,
+		ScratchDefense = 55,
+		BulletDefense = 15,
+		DisplayCategory = Armor,
+		Insulation = 0,
+		WaterResistance = 0,
+        Weight = 1.2,
+		ConditionLowerChanceOneIn = 15,
+        ConditionMax = 15,
+        RemoveOnBroken = false,
+		Tooltip = Tooltip_ScrapKilt,
+		Tags = MetalArmor,
+    }
+	
+	item ScrapKiltStudded
+	{
+	    Type = Clothing,
+		DisplayName = Scrap Kilt Studded,
+		ClothingItem = ScrapKiltStudded,
+		BodyLocation = LowerBody,
+		Icon = ScrapKiltStudded,
+		CanHaveHoles = False,
+		BloodLocation = UpperLegs;Groin,
+		BiteDefense = 65,
+		ScratchDefense = 65,
+		BulletDefense = 15,
+		DisplayCategory = Armor,
+		Insulation = 0,
+		WaterResistance = 0,
+        Weight = 1.2,
+		ConditionLowerChanceOneIn = 15,
+        ConditionMax = 15,
+        RemoveOnBroken = false,
+		Tooltip = Tooltip_ScrapKilt,
+		Tags = MetalArmor,
+    }
+	
+	item ScrapKilt
+	{
+	    Type = Clothing,
+		DisplayName = Scrap Kilt,
+		ClothingItem = ScrapKilt,
+		BodyLocation = LowerBody,
+		Icon = ScrapKilt,
+		CanHaveHoles = False,
+		BloodLocation = UpperLegs;Groin,
+		BiteDefense = 35,
+		ScratchDefense = 35,
+		BulletDefense = 15,
+		DisplayCategory = Armor,
+		Insulation = 0,
+		WaterResistance = 0,
+        Weight = 1,
+		ConditionLowerChanceOneIn = 15,
+        ConditionMax = 15,
+        RemoveOnBroken = false,
+		Tooltip = Tooltip_ScrapKilt,
+		Tags = MetalArmor,
+    }
+	
+}

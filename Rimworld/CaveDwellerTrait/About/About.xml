@@ -4,7 +4,6 @@
 	<supportedVersions>
 		<li>1.5</li>
 	</supportedVersions>
-	<modIconPath IgnoreIfNoMatchingField="True">UI/Icons/Genes/CaveDweller</modIconPath>
 	<modDependencies>
 		<li>
 			<packageId>Ludeon.RimWorld.Biotech</packageId>
@@ -13,7 +12,10 @@
 	</modDependencies>
 	<loadAfter>
 		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>Ludeon.RimWorld.Ideology</li>
 		<li>Ludeon.RimWorld.Biotech</li>
+		<li>brrainz.harmony</li>
 	</loadAfter>
 	<packageId>Tyrthius.CaveDwellerTrait</packageId>
 	<description>Adds a gene forcing the "Undergrounder" trait.
